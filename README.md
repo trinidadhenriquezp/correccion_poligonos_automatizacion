@@ -1,1 +1,1 @@
-
+Script en Python/ArcPy para la automatización del proceso de reporyección, limpieza, estandarización y cálculo de área geodésica de polígonos en ArcGIS Pro. Incluye interfac Tkinter para facilitar su uso. 
